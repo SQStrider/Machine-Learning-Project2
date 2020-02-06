@@ -2,6 +2,7 @@
 LeNet5由7层CNN（不包含输入层）组成，输入的原始图像大小是32×32像素.
 
 ![LeNet-5 Architecture](lenet.png)
+
 Implement the LeNet-5 deep neural network model.
 ## 原案列架构
 ### 1、C1层（卷积层）：6@28×28
